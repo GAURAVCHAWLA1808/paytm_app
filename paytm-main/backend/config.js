@@ -1,0 +1,2 @@
+const JWT_SCERET="GAURAVSCERET"
+module.exports=JWT_SCERET
